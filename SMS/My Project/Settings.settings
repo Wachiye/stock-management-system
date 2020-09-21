@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="host" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="username" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="password" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4sirah@123</Value>
+    </Setting>
+    <Setting Name="database" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">stock</Value>
+    </Setting>
+    <Setting Name="company_name" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SmartShark Softwares</Value>
+    </Setting>
+    <Setting Name="company_trade_mark" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SmartShark Products</Value>
+    </Setting>
+    <Setting Name="layout" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">complex</Value>
+    </Setting>
+    <Setting Name="company_email_primary" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">siranjofuw@gmail.com</Value>
+    </Setting>
+    <Setting Name="company_email_secondary" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jerrysirah8@gmailcom</Value>
+    </Setting>
+    <Setting Name="company_phone_primary" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0790983123</Value>
+    </Setting>
+    <Setting Name="company_phone_secondary" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0740500470</Value>
+    </Setting>
+    <Setting Name="company_street_name" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kiminini</Value>
+    </Setting>
+    <Setting Name="company_house_number" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="company_postal_code" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">232</Value>
+    </Setting>
+    <Setting Name="company_region" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kitale</Value>
+    </Setting>
+    <Setting Name="company_state" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kenya</Value>
+    </Setting>
+    <Setting Name="company_description" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SmartShark Softwares is an IT related Company based in Kenya that deals with Web Design and Development.
+Was founded in 2017 by Dr. Eng. Wachiye Jeremiah Siranjofu</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
